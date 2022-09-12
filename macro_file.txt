@@ -1,0 +1,23 @@
+[Example1]
+bindedkey=35
+e={space down}
+d=0.018
+e={j down}
+d=0.001
+e={j up}
+d=0.500
+e={space up}
+[Example2]
+bindedkey=52
+e={s down}
+d=0.030
+e={d down}
+d=0.030
+e={f down}
+d=0.030
+e={s up}
+d=0.050
+e={d up}
+d=0.030
+e={f up}
+d=1.03
